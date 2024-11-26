@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Account Information Det…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "KtAWvc5Fw0iA2sAvo7lY0w",
+  "Reference": "ptjQBolF9kSEk2sZYIhw_Q/KtAWvc5Fw0iA2sAvo7lY0w",
+  "ParentRef": "ptjQBolF9kSEk2sZYIhw_Q/TnkT5eeud0S5XDKbaZhetg",
+  "Created": "2024-11-14T06:40:26.4172686Z",
+  "Updated": "2024-11-14T06:40:26.4172686Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

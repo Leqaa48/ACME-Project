@@ -1,0 +1,13 @@
+﻿{
+  "Name": "KJ93404",
+  "Type": "Element",
+  "Id": "dzkzLEq9sEqCmCOx-NFlhw",
+  "Reference": "ptjQBolF9kSEk2sZYIhw_Q/dzkzLEq9sEqCmCOx-NFlhw",
+  "ParentRef": "ptjQBolF9kSEk2sZYIhw_Q/ZI1yF_OKW0idsJT5Q2FvTg",
+  "Created": "2024-11-13T14:50:10.8100796Z",
+  "Updated": "2024-11-13T14:50:10.8100796Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

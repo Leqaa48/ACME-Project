@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-np68sQCLkyzohbqHT0_Ng" Reference="ptjQBolF9kSEk2sZYIhw_Q/dzkzLEq9sEqCmCOx-NFlhw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="782a2aac-bba1-4f43-a458-b751bf214abb" DesignTimeRectangle="27, 341, 843, 24" DesignTimeScaleFactor="1.25" ElementType="ListItem" FullSelectorArgument="&lt;wnd ctrlname='listView1' /&gt;&lt;ctrl name='*' role='list item' /&gt;" Guid="2ad903f2-63f7-469a-bbc3-ca1d14a6c5f9" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='SearchingClient' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c68b9ec16d0de777a561b457240486d6.png" xmlns="">0ydvSDJWlREC4daPKpanA2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

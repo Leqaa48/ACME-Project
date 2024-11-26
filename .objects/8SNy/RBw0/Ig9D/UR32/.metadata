@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Clients Add New Client …",
+  "Type": "Element",
+  "Id": "UR32exN-EUS5XNJmve1hIg",
+  "Reference": "ptjQBolF9kSEk2sZYIhw_Q/UR32exN-EUS5XNJmve1hIg",
+  "ParentRef": "ptjQBolF9kSEk2sZYIhw_Q/Ig9DtZjyPUW6HbJi3bLBoQ",
+  "Created": "2024-11-13T14:20:04.0884985Z",
+  "Updated": "2024-11-13T14:20:04.0884985Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

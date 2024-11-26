@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="c4puF3xqdkmdYXKor0SWqw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="63090e25-d9ab-4286-a8db-92a895150350" DesignTimeRectangle="367, 352, 166, 41" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;wnd aaname='System Credentials' /&gt;&lt;wnd ctrlname='button1' aaname='Login' /&gt;" Guid="4c74a616-e559-4aad-baeb-67e7d58a5e23" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='Login' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b2a84d438415c3331b51f5e12027d47e.png" xmlns="">0clgz6P934UaEk_rrRRinUA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

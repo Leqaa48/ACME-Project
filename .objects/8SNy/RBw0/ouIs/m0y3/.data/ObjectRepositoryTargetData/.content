@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yJUVerSiIk-udLBeNMLdlA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="cca984e9-f075-45b2-be9e-e2d871e12bf0" DesignTimeRectangle="335, 263, 139, 36" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='button2' aaname='Show All' /&gt;" Guid="32ec2f2d-6d63-497d-bbf0-cfafe8fc84e0" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='ClientAccountMovemnets' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bf086a607ae54bc06497485dd0dff338.png" xmlns="">0h_qs4PBU_EG3FZzMu1qaeQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

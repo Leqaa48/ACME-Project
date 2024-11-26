@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IK4J8RyIUkSE_a8S40ZOVQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="9d1a6b48-0b97-4729-beb9-a9be7d38a824" DesignTimeRectangle="232, 240, 479, 30" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;wnd aaname='System Credentials' /&gt;&lt;wnd aaname='Username' /&gt;&lt;nav up='1' /&gt;&lt;wnd ctrlname='textBox1' /&gt;" Guid="59cc8a92-8ede-4496-a55a-5d6c1fbd84af" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='Login' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9d1a6b48-0b97-4729-beb9-a9be7d38a824" CvTextArea="231, 216, 75, 15" CvTextArgument="Username" CvType="Text" DesignTimeRectangle="230, 214, 81, 19" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='label1' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='label1' check:text='Username' /&gt;" Guid="bb8f9edd-a959-474e-814d-286f62d7dae2" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c740e781ea5fe3c6dc88d2bde1a1ac02.png" xmlns="">0vsrbAC_COkyT90ZMMyqxtg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

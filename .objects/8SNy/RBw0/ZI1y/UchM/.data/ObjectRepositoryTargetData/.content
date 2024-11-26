@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yKg2vLoRNEup6MkVq4J4eg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="6f458d0d-45d2-4d08-8673-4ae339788d94" DesignTimeRectangle="32, 203, 870, 30" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='checkBox1' aaname='Include inactive clients' /&gt;&lt;nav up='1' /&gt;&lt;wnd ctrlname='textBox1' /&gt;" Guid="98607abe-779f-449e-b38b-6c6ea898b3e0" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='SearchingClient' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9ea9f55ea60aaf572e43676dce1a590d.png" xmlns="">0x1EAytxQBUeH6aDuA3LOsQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

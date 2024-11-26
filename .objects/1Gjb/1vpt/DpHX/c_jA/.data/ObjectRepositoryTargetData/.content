@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lV5QedL1GECHDmGXqMzyIA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items" CVScreenId="504c1066-e0e3-462c-99ac-1b971d49e2fc" DesignTimeRectangle="190, 59, 1285, 33" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='ACME System 1 - Work Items - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='App bar' role='tool bar' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" Guid="5466a2ec-a83b-4678-8965-7b6938254b49" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Work Items and 1 more page - Profile 1 - Microso*' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="426f23b8a97911e3e601b5a94ae49bee.png" xmlns="">0_XO4YKfvr0ugpXD5aoWK8A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
